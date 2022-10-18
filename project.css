@@ -1,0 +1,98 @@
+ body {
+    background-color: #003333
+} 
+
+#line1{
+    color: white;
+    line-height: 1em
+}
+
+.line2{
+    color: #00ff99;
+    padding-top: -20px;
+    line-height: 1   
+}
+
+#set-pass-len-txt{
+    color: #00ff99
+}
+
+#message{
+    color: white;
+}
+
+.font{
+    font-family: OCR A Std, monospace;
+}
+
+.top-content{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#gen-pass-btn{
+    background-color: #00ff99;
+    color: white;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 3px;
+    border: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+#fname{
+    font-family: OCR A Std, monospace;
+    background-color: #00ff99;
+    color: white;
+    margin-top: 10px;
+    border-radius: 3px;
+    border: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+#line{
+    background-color: #1f1f14;
+}
+
+#password-1{
+    font-family: OCR A Std, monospace;
+    color: #00ff99;
+}
+
+#password-2{
+    font-family: OCR A Std, monospace;
+    color: #00ff99;
+}
+
+.rectangle1{
+  background: #006666;
+  border-radius: 25px;
+  margin: auto;
+  width: 215px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+.rectangle2{
+  background: #006666;
+  border-radius: 25px;
+  margin: auto;
+  margin-top: 6px;
+  width: 215px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
+
+
